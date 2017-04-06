@@ -49,7 +49,7 @@
        <image>https://ainamadagainenglish.files.wordpress.com/2012/10/21.jpg</image>
    </item>
    <item id="2">
-       <name>OPEN AIR CRUSADE</name>
+       <name>Open air crusade</name>
        <desc>MUTHARA CIRCUIT</desc>
        <start>1472715000000</start><!-- Stored in milliseconds  -->
        <end>1472718600000</end><!-- Stored in milliseconds  -->
@@ -57,7 +57,7 @@
        <image>https://az801518.vo.msecnd.net/banners/f451b260513d28244078df2bf25dc508</image>
    </item>
    <item id="3">
-       <name>PRAYER KESHA</name>
+       <name>Prayer kesha</name>
        <desc>There will be a prayer kesha this friday 10th 2017</desc>
        <start>1472722200000</start><!-- Stored in milliseconds  -->
        <end>1472729400000</end><!-- Stored in milliseconds  -->
