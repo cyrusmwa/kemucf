@@ -49,11 +49,11 @@
        <image>https://ainamadagainenglish.files.wordpress.com/2012/10/21.jpg</image>
    </item>
    <item id="2">
-       <name>Event #2</name>
-       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+       <name>OPEN AIR CRUSADE</name>
+       <desc>Muthara circuit</desc>
        <start>1472715000000</start><!-- Stored in milliseconds  -->
        <end>1472718600000</end><!-- Stored in milliseconds  -->
-       <venue>Nehru Hall</venue>
+       <venue>Muthara</venue>
        <image>http://www.example.com/talk2.jpg</image>
    </item>
    <item id="3">
