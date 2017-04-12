@@ -1,5 +1,5 @@
-<mconference>
-<name>Members ONLY</name>
+<mconferences>
+<names>Members ONLY</names>
 <logo>http://www.example.com/logo.png</logo>
 <venue>Meru, Kenya</venue>
 <time>
@@ -39,7 +39,7 @@
         <image>https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAmAAAAAJDdjNDQ3N2QwLTA3NmItNGMwOS05MTIyLWQwZTVmMjlmN2E4Yg.jpg</image>
     </item>
 </sponsors>
-<talks><!-- Talks -->
+<talk><!-- Talks -->
    <item id="1">
        <name>Event #1</name>
        <desc>Members are expected to convene at the University Chapel, precisely 8AM so as to set off to Aina for a "Day with the Kids".</desc>
@@ -112,5 +112,5 @@
         <venue>Gandhi Hall</venue>
         <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
     </item>
-</talks>
-</mconference>
+</talk>
+</mconferences>
